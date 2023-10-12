@@ -1,0 +1,5 @@
+(234123, Seat Ibiza, 22000.00€ IVA incluido)
+(123444, Renault Captur, 23650.00€ IVA incluido)
+(234123, Ford Focus, 24750.00€ IVA incluido)
+((100000, Ferrari Testarrosa, 165000.00€ IVA incluido) metalizado especial)
+((200000, Lamborghini Urus, 258500.00€ IVA incluido) asientos de cuero)
